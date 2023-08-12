@@ -1,0 +1,25 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"productName": "Mouse",
+			"price": 70,
+			"quantity": 100,
+			"hasDiscount": false
+		},
+		{
+			"id": 2,
+			"productName": "Book",
+			"price": 50,
+			"quantity": 1000,
+			"hasDiscount": false
+		},
+		{
+			"id": 4,
+			"productName": "Watch",
+			"price": 5000,
+			"quantity": 400,
+			"hasDiscount": true
+		}
+	]
+}
